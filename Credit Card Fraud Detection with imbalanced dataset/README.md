@@ -10,4 +10,4 @@ It aims to balance class distribution by randomly increasing minority class exam
 2. NearMiss Algorithm – Undersampling
 It aims to balance class distribution by randomly eliminating majority class examples. When instances of two different classes are very close to each other, we remove the instances of the majority class to increase the spaces between the two classes. This helps in the classification process.
 
-
+- Deep Learning have also used for detecting fraud transaction
