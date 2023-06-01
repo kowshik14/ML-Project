@@ -1,7 +1,6 @@
 # ML-Project
 
 
-# Hi, I'm Kowshik! 👋
 
 
 ## 🔗 Links
