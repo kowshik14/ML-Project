@@ -34,18 +34,6 @@ In this hybrid RNN model CuDNNLSTM and CuDNNGRU have used instead of LSTM & GRU 
 
 
 
-## Dataset
-
-Link: https://www.unb.ca/cic/datasets/darknet2020.html
-
-
-
-
-
-
-
-
-
 
 
 ## CuDNN
